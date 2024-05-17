@@ -1,6 +1,6 @@
 # Domain generalization counting via Graph-based Meta-Learning and Feature Disentanglement
 
-![visualization](./samples_imgs/visualization.PNG)
+![visualization](./samples_imgs/visualization.png)
 
 ## 1.Environment Setup
 
